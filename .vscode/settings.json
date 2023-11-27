@@ -1,0 +1,7 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 16,
+    "editor.lineHeight": 20,
+    "editor.letterSpacing": 0.5,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace"
+}

@@ -1,0 +1,25 @@
+.scan-container {
+    margin: 10% auto;
+
+    .scan-section {
+        width: 410px;
+        position: relative;
+        margin: 0 auto;
+
+        .serialNumber {
+            width: 410px;
+            position: relative;
+            padding: 8px;
+            border-radius: 8px;
+            outline: none;
+            border: 1px solid grey;
+        }
+
+        .scan-image {
+            position: absolute;
+            top: 8px;
+            right: 10px;
+            cursor: pointer;
+        }
+    }
+}
